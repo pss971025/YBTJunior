@@ -1,7 +1,7 @@
 module.exports={
 name: 'reactionrole',
 async execute(message,args,Discord,client){
-    const channel = '934005282118459415';
+    const channel = '842056341946368050';
     const role1Id='★ 탱커 ★';
     const role2Id='★ 딜러 ★';
     const role3Id='★ 힐러 ★';
